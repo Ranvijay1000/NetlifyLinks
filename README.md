@@ -13,3 +13,4 @@ Life Galaxy - lifegalaxy.netlify.app
 Portfolio - ranvijayportfolio.netlify.app
 Tic Tac Toe - tictactoe-by-ranvijay.netlify.app
 Study Nook - studynooksk.netlify.app
+Pantry Mind - pantrymind.netlify.app
